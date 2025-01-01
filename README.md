@@ -1,4 +1,4 @@
-Dùng script này đi:_G.Quest = { 
+_G.Quest = { 
     ['RGB Aura Haki'] = true,
     ['Pull Lever'] = true,
     ['Quest Dough Awaken'] = true
